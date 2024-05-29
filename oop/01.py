@@ -1,4 +1,4 @@
-# Basic class and Object
+# Basic class and Object python OOP
 
 class Car:
     def __init__(self, brand, model):

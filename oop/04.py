@@ -22,6 +22,6 @@ class ElectricCar(Car):
         self.batterySize = batterySize
 
 my_electric_car = ElectricCar("TSLA", "Model S", "85KWH")
-# print(my_electric_car.full_name())
+print(my_electric_car.full_name())
 # print(my_electric_car.__brand)
 print(my_electric_car.get_brand())
